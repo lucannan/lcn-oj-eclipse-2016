@@ -43,6 +43,9 @@ public class Solution_67 {
 
 	public static void main(String[] args) {
 		System.out.println(addBinary("0", "0"));
+		
 		System.out.println(String.valueOf(new char[] {'\0'}));
+		
+		
 	}
 }

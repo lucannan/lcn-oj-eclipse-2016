@@ -13,7 +13,7 @@ public class Solution_125 {
         		sb.append(c);
         	}
         	if(c >= 'A' && c <= 'Z'){
-        		sb.append((int)c + 32);
+        		sb.append((char)((int)c +32));
         	}
         	
         	if(c >= 'a' && c <= 'z'){
